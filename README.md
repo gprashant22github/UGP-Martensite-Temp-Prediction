@@ -44,7 +44,7 @@ This project aims to develop a **data-driven machine learning framework** to pre
 ## 📄 Report
 
 You can view/download the full project report here:  
-👉 [**UGP Final Report (PDF)**](./UGP_Final_Report.pdf)
+👉 [**UGP Final Report (PDF)**](./UGP.pdf)
 
 ---
 
